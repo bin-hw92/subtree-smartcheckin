@@ -1,1 +1,1 @@
-# subtree-smartcheckin
+# package-smartcheckin
